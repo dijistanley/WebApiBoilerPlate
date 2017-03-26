@@ -5,7 +5,7 @@ using System.Configuration;
 using System.IdentityModel.Tokens;
 using Thinktecture.IdentityModel.Tokens;
 
-namespace WebAppBoilerPlate.Identity
+namespace App.Identity
 {
     public class CustomJwtFormat : ISecureDataFormat<AuthenticationTicket>
 	{

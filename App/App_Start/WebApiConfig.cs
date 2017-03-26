@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
 using System.Web.Http.Cors;
 
-namespace WebAppBoilerPlate.App_Start
+namespace App.App_Start
 {
     public static class WebApiConfig
     {

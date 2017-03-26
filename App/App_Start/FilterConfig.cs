@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Http;
 
-namespace WebAppBoilerPlate.App_Start
+namespace App.App_Start
 {
     public class FilterConfig
     {

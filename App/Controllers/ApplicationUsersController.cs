@@ -10,7 +10,7 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using DataAccess.Core;
 
-namespace WebAppBoilerPlate.Controllers
+namespace App.Controllers
 {
     public class ApplicationUsersController : ApiController
     {

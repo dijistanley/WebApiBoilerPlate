@@ -5,7 +5,7 @@ using Model.Models;
 using System;
 using System.Threading.Tasks;
 
-namespace WebAppBoilerPlate.Providers
+namespace App.Providers
 {
     public class CustomRefreshTokenProvider : IAuthenticationTokenProvider
     {

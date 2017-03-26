@@ -2,8 +2,8 @@
 using Owin;
 
 
-[assembly: OwinStartup(typeof(WebAppBoilerPlate.Startup))]
-namespace WebAppBoilerPlate
+[assembly: OwinStartup(typeof(App.Startup))]
+namespace App
 {
     public partial class Startup
     {

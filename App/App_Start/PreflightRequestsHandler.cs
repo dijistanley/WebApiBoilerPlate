@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace WebAppBoilerPlate.App_Start
+namespace App.App_Start
 {
 	class PreflightRequestsHandler : DelegatingHandler
 	{

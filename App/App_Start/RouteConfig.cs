@@ -1,7 +1,7 @@
 ﻿//using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace WebAppBoilerPlate.App_Start
+namespace App.App_Start
 {
 	public class RouteConfig
 	{

@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace WebAppBoilerPlate.Controllers
+namespace App.Controllers
 {
     public class DummyController : ApiController
     {

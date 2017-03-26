@@ -3,9 +3,9 @@ using Newtonsoft.Json.Serialization;
 using System.Web;
 using System.Web.Http;
 using System.Web.Routing;
-using WebAppBoilerPlate.App_Start;
+using App.App_Start;
 
-namespace WebAppBoilerPlate
+namespace App
 {
     public class WebApiApplication :HttpApplication
     {

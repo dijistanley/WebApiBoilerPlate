@@ -4,12 +4,12 @@ using Microsoft.Owin.Security.DataHandler.Encoder;
 using Microsoft.Owin.Security.Jwt;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using WebAppBoilerPlate.Identity;
+using App.Identity;
 using System;
 using System.Configuration;
-using WebAppBoilerPlate.Providers;
+using App.Providers;
 
-namespace WebAppBoilerPlate
+namespace App
 {
     public partial class Startup
 	{

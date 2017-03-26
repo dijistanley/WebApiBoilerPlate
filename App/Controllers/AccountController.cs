@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Http.Description;
 
-namespace WebAppBoilerPlate.Controllers
+namespace App.Controllers
 {
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController

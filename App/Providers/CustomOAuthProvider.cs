@@ -12,7 +12,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 
 
-namespace WebAppBoilerPlate.Identity
+namespace App.Identity
 {
     public class CustomOAuthProvider: OAuthAuthorizationServerProvider
 	{
